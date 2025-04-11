@@ -1,9 +1,13 @@
 int countSymmetricIntegers(int low, int high) {
     int i, n, j, s1, s2, c, c1 = 0;
     for(i = low; i <= high; i++){
-        s1 = 0, s2 = 0;
+        s1 = 0, s2 = 0, c = 0;
         n = i; 
-        c = (int)log10(n) + 1;
+        while(n != 0){
+            c++;
+            n /= 10;
+        }
+        n = i;
         if(c % 2 == 0){
             for(j = 1; j <= c; j++){
                 if(j <= c / 2)
