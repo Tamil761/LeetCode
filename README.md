@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Tamil761/LeetCode/tree/master/0724-find-pivot-index) |
 | [1319-unique-number-of-occurrences](https://github.com/Tamil761/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1833-find-the-highest-altitude](https://github.com/Tamil761/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Tamil761/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2551-apply-operations-to-an-array](https://github.com/Tamil761/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## Two Pointers
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/Tamil761/LeetCode/tree/master/0441-arranging-coins) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Tamil761/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2998-count-symmetric-integers](https://github.com/Tamil761/LeetCode/tree/master/2998-count-symmetric-integers) |
 ## Enumeration
 |  |
