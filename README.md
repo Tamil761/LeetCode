@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Tamil761/LeetCode/tree/master/0292-nim-game) |
 | [0441-arranging-coins](https://github.com/Tamil761/LeetCode/tree/master/0441-arranging-coins) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Tamil761/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2998-count-symmetric-integers](https://github.com/Tamil761/LeetCode/tree/master/2998-count-symmetric-integers) |
@@ -59,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Tamil761/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Tamil761/LeetCode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Tamil761/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
