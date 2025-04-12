@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Tamil761/LeetCode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Tamil761/LeetCode/tree/master/0319-bulb-switcher) |
 | [0441-arranging-coins](https://github.com/Tamil761/LeetCode/tree/master/0441-arranging-coins) |
+| [1362-airplane-seat-assignment-probability](https://github.com/Tamil761/LeetCode/tree/master/1362-airplane-seat-assignment-probability) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Tamil761/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2998-count-symmetric-integers](https://github.com/Tamil761/LeetCode/tree/master/2998-count-symmetric-integers) |
 ## Enumeration
@@ -66,8 +67,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/Tamil761/LeetCode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Tamil761/LeetCode/tree/master/0319-bulb-switcher) |
+| [1362-airplane-seat-assignment-probability](https://github.com/Tamil761/LeetCode/tree/master/1362-airplane-seat-assignment-probability) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Tamil761/LeetCode/tree/master/0292-nim-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1362-airplane-seat-assignment-probability](https://github.com/Tamil761/LeetCode/tree/master/1362-airplane-seat-assignment-probability) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1362-airplane-seat-assignment-probability](https://github.com/Tamil761/LeetCode/tree/master/1362-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
