@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tamil761/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tamil761/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0724-find-pivot-index](https://github.com/Tamil761/LeetCode/tree/master/0724-find-pivot-index) |
+| [1019-squares-of-a-sorted-array](https://github.com/Tamil761/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Tamil761/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1656-count-good-triplets](https://github.com/Tamil761/LeetCode/tree/master/1656-count-good-triplets) |
 | [1833-find-the-highest-altitude](https://github.com/Tamil761/LeetCode/tree/master/1833-find-the-highest-altitude) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tamil761/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/Tamil761/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Tamil761/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## Simulation
 |  |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/Tamil761/LeetCode/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/Tamil761/LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Tamil761/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Sorting
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/Tamil761/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
