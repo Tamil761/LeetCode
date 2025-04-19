@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/Tamil761/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1656-count-good-triplets](https://github.com/Tamil761/LeetCode/tree/master/1656-count-good-triplets) |
 | [1833-find-the-highest-altitude](https://github.com/Tamil761/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/Tamil761/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Tamil761/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2551-apply-operations-to-an-array](https://github.com/Tamil761/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Tamil761/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Tamil761/LeetCode/tree/master/0441-arranging-coins) |
 | [0728-self-dividing-numbers](https://github.com/Tamil761/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Tamil761/LeetCode/tree/master/1362-airplane-seat-assignment-probability) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/Tamil761/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Tamil761/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2998-count-symmetric-integers](https://github.com/Tamil761/LeetCode/tree/master/2998-count-symmetric-integers) |
 ## Enumeration
