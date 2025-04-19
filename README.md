@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/Tamil761/LeetCode/tree/master/1656-count-good-triplets) |
 | [1833-find-the-highest-altitude](https://github.com/Tamil761/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Tamil761/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Tamil761/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Tamil761/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2551-apply-operations-to-an-array](https://github.com/Tamil761/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Tamil761/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Tamil761/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/Tamil761/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/Tamil761/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## Prefix Sum
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Tamil761/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Tamil761/LeetCode/tree/master/1362-airplane-seat-assignment-probability) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Tamil761/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Tamil761/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Tamil761/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2998-count-symmetric-integers](https://github.com/Tamil761/LeetCode/tree/master/2998-count-symmetric-integers) |
 ## Enumeration
@@ -104,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/Tamil761/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Tamil761/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
