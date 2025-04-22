@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/Tamil761/LeetCode/tree/master/0397-integer-replacement) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Tamil761/LeetCode/tree/master/1362-airplane-seat-assignment-probability) |
 ## Probability and Statistics
 |  |
@@ -122,4 +123,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Tamil761/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+## Greedy
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/Tamil761/LeetCode/tree/master/0397-integer-replacement) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/Tamil761/LeetCode/tree/master/0397-integer-replacement) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/Tamil761/LeetCode/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
