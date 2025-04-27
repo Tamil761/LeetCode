@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/Tamil761/LeetCode/tree/master/1656-count-good-triplets) |
 | [1833-find-the-highest-altitude](https://github.com/Tamil761/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Tamil761/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/Tamil761/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Tamil761/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Tamil761/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2551-apply-operations-to-an-array](https://github.com/Tamil761/LeetCode/tree/master/2551-apply-operations-to-an-array) |
