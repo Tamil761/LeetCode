@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Tamil761/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2551-apply-operations-to-an-array](https://github.com/Tamil761/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Tamil761/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Tamil761/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Two Pointers
 |  |
 | ------- |
