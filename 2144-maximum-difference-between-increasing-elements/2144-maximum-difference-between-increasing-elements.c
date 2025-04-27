@@ -1,5 +1,5 @@
 int maximumDifference(int* nums, int n) {
-    int i, j, ans = 0, maxDiff = 0;
+    int i, j, ans = -1, maxDiff = -1;
     for(i = 0; i < n - 1; i++){
         for(j = i + 1; j < n; j++){
             if(nums[i] < nums[j])
@@ -8,7 +8,5 @@ int maximumDifference(int* nums, int n) {
                 maxDiff = ans;
         }
     }
-    if(maxDiff == 0)
-        return -1;
     return maxDiff;
 }
