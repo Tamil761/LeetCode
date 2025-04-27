@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Tamil761/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Tamil761/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Tamil761/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Tamil761/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Tamil761/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Tamil761/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2551-apply-operations-to-an-array](https://github.com/Tamil761/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Tamil761/LeetCode/tree/master/0013-roman-to-integer) |
 | [1319-unique-number-of-occurrences](https://github.com/Tamil761/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Tamil761/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Tamil761/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Math
 |  |
 | ------- |
@@ -149,8 +151,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/Tamil761/LeetCode/tree/master/0397-integer-replacement) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Tamil761/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Memoization
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/Tamil761/LeetCode/tree/master/0397-integer-replacement) |
+## Counting
+|  |
+| ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/Tamil761/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 <!---LeetCode Topics End-->
