@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2630-alternating-digit-sum](https://github.com/Tamil761/LeetCode/tree/master/2630-alternating-digit-sum) |
 | [2748-calculate-delayed-arrival-time](https://github.com/Tamil761/LeetCode/tree/master/2748-calculate-delayed-arrival-time) |
 | [2998-count-symmetric-integers](https://github.com/Tamil761/LeetCode/tree/master/2998-count-symmetric-integers) |
+| [3462-vowels-game-in-a-string](https://github.com/Tamil761/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Enumeration
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Tamil761/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2470-removing-stars-from-a-string](https://github.com/Tamil761/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2727-number-of-senior-citizens](https://github.com/Tamil761/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [3462-vowels-game-in-a-string](https://github.com/Tamil761/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3636-check-balanced-string](https://github.com/Tamil761/LeetCode/tree/master/3636-check-balanced-string) |
 ## Stack
 |  |
@@ -117,10 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Tamil761/LeetCode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Tamil761/LeetCode/tree/master/0319-bulb-switcher) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Tamil761/LeetCode/tree/master/1362-airplane-seat-assignment-probability) |
+| [3462-vowels-game-in-a-string](https://github.com/Tamil761/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Tamil761/LeetCode/tree/master/0292-nim-game) |
+| [3462-vowels-game-in-a-string](https://github.com/Tamil761/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
