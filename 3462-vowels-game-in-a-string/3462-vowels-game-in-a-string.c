@@ -1,9 +1,9 @@
 bool doesAliceWin(char* s) {
     int i = 0;
-    while(*s != '\0'){
-        if(*s == 'a' || *s == 'e' || *s == 'i' || *s == 'o' || *s == 'u')
+    while(s[i] != '\0'){
+        if(s[i] == 'a' || s[i] == 'e' || s[i] == 'i' || s[i] == 'o' || s[i] == 'u')
             return true;
-        s++;
+        i++;
     }
     return false;
 }
