@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Tamil761/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tamil761/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Tamil761/LeetCode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Tamil761/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tamil761/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0189-rotate-array](https://github.com/Tamil761/LeetCode/tree/master/0189-rotate-array) |
 | [0724-find-pivot-index](https://github.com/Tamil761/LeetCode/tree/master/0724-find-pivot-index) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Tamil761/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Tamil761/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tamil761/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0441-arranging-coins](https://github.com/Tamil761/LeetCode/tree/master/0441-arranging-coins) |
 ## Divide and Conquer
