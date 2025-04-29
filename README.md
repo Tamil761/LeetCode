@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Tamil761/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2470-removing-stars-from-a-string](https://github.com/Tamil761/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2727-number-of-senior-citizens](https://github.com/Tamil761/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [3207-make-three-strings-equal](https://github.com/Tamil761/LeetCode/tree/master/3207-make-three-strings-equal) |
 | [3462-vowels-game-in-a-string](https://github.com/Tamil761/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3636-check-balanced-string](https://github.com/Tamil761/LeetCode/tree/master/3636-check-balanced-string) |
 ## Stack
