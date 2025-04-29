@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2694-find-the-maximum-divisibility-score](https://github.com/Tamil761/LeetCode/tree/master/2694-find-the-maximum-divisibility-score) |
 | [2698-find-the-array-concatenation-value](https://github.com/Tamil761/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
 | [2727-number-of-senior-citizens](https://github.com/Tamil761/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/Tamil761/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Tamil761/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Tamil761/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Two Pointers
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0397-integer-replacement](https://github.com/Tamil761/LeetCode/tree/master/0397-integer-replacement) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Tamil761/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/Tamil761/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
