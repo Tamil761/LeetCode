@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Tamil761/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Tamil761/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Tamil761/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3165-find-indices-with-index-and-value-difference-i](https://github.com/Tamil761/LeetCode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Tamil761/LeetCode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Tamil761/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Tamil761/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Tamil761/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Tamil761/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/Tamil761/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
+| [3165-find-indices-with-index-and-value-difference-i](https://github.com/Tamil761/LeetCode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 ## Simulation
 |  |
 | ------- |
