@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/Tamil761/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Tamil761/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Tamil761/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Tamil761/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Tamil761/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Tamil761/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Two Pointers
