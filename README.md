@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2630-alternating-digit-sum](https://github.com/Tamil761/LeetCode/tree/master/2630-alternating-digit-sum) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Tamil761/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2748-calculate-delayed-arrival-time](https://github.com/Tamil761/LeetCode/tree/master/2748-calculate-delayed-arrival-time) |
+| [2812-find-the-maximum-achievable-number](https://github.com/Tamil761/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2998-count-symmetric-integers](https://github.com/Tamil761/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3462-vowels-game-in-a-string](https://github.com/Tamil761/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Enumeration
