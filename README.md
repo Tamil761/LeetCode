@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Tamil761/LeetCode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Tamil761/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Tamil761/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/Tamil761/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Tamil761/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Tamil761/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Two Pointers
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Tamil761/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2486-most-frequent-even-element](https://github.com/Tamil761/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Tamil761/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/Tamil761/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Math
 |  |
 | ------- |
