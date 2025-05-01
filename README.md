@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Tamil761/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Tamil761/LeetCode/tree/master/1362-airplane-seat-assignment-probability) |
 | [1401-number-of-burgers-with-no-waste-of-ingredients](https://github.com/Tamil761/LeetCode/tree/master/1401-number-of-burgers-with-no-waste-of-ingredients) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Tamil761/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Tamil761/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Tamil761/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Tamil761/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Tamil761/LeetCode/tree/master/0029-divide-two-integers) |
 | [0397-integer-replacement](https://github.com/Tamil761/LeetCode/tree/master/0397-integer-replacement) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Tamil761/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Tamil761/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Memoization
 |  |
