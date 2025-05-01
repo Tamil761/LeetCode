@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/Tamil761/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Tamil761/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Tamil761/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/Tamil761/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Tamil761/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Two Pointers
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/Tamil761/LeetCode/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/Tamil761/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/Tamil761/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Hash Table
 |  |
 | ------- |
