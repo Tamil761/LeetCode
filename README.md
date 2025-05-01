@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3220-count-tested-devices-after-test-operations](https://github.com/Tamil761/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Tamil761/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Tamil761/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Tamil761/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2955-account-balance-after-rounded-purchase](https://github.com/Tamil761/LeetCode/tree/master/2955-account-balance-after-rounded-purchase) |
 | [2998-count-symmetric-integers](https://github.com/Tamil761/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3462-vowels-game-in-a-string](https://github.com/Tamil761/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Tamil761/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Enumeration
 |  |
 | ------- |
