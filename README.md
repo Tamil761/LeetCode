@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3220-count-tested-devices-after-test-operations](https://github.com/Tamil761/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Tamil761/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Tamil761/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Tamil761/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Tamil761/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Tamil761/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Tamil761/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-most-frequent-even-element](https://github.com/Tamil761/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Tamil761/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Tamil761/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Tamil761/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Math
 |  |
 | ------- |
