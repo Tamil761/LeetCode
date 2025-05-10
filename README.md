@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/Tamil761/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1656-count-good-triplets](https://github.com/Tamil761/LeetCode/tree/master/1656-count-good-triplets) |
 | [1833-find-the-highest-altitude](https://github.com/Tamil761/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Tamil761/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Tamil761/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Tamil761/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Tamil761/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
