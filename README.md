@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tamil761/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Tamil761/LeetCode/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/Tamil761/LeetCode/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Tamil761/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Tamil761/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Tamil761/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/Tamil761/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Tamil761/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/Tamil761/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Binary Search
 |  |
@@ -234,8 +236,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Tamil761/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Tamil761/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Tamil761/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Linked List
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Tamil761/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Tamil761/LeetCode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
