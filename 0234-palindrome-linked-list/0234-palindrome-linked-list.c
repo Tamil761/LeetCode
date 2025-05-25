@@ -5,16 +5,6 @@
  *     struct ListNode *next;
  * };
  */
-struct ListNode* reverse(struct ListNode* head){
-    struct ListNode *prev = NULL, *current = head, *next = NULL;
-    while(current != NULL){
-        next = current -> next;
-        current -> next = prev;
-        prev = current;
-        current = next;
-    }
-    return prev;
-}
 bool isPalindrome(struct ListNode* head) {
     if(head == NULL || head -> next == NULL)
         return true;
@@ -23,13 +13,18 @@ bool isPalindrome(struct ListNode* head) {
         slow = slow -> next;
         fast = fast -> next -> next;
     }
-    struct ListNode *secHalf = reverse(slow);
-    struct ListNode *temp1 = head, *temp2 = secHalf;
-    while(temp2 != NULL){
-        if(temp1 -> val != temp2 -> val)
+    struct ListNode *prev = NULL, *current = slow, *next = NULL;
+    while(current != NULL){
+        next = current -> next;
+        current -> next = prev;
+        prev = current;
+        current = next;
+    }
+    while(prev != NULL){
+        if(head -> val != prev -> val)
             return false;
-        temp1 = temp1 -> next;
-        temp2 = temp2 -> next;
+        head = head -> next;
+        prev = prev -> next;
     }
     return true;
 }
